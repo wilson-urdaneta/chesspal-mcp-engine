@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wilson-urdaneta-chesspal-mcp-engine-badge.png)](https://mseep.ai/app/wilson-urdaneta-chesspal-mcp-engine)
+
 # ChessPal Chess Engine - A Stockfish-powered chess engine exposed as an MCP server using FastMCP
 
 [![PyPI version](https://img.shields.io/pypi/v/chesspal-mcp-engine.svg)](https://pypi.org/project/chesspal-mcp-engine/)
